@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tounouTest/static/css/main.60b30eb6.css",
+    "main.js": "/tounouTest/static/js/main.5d53a022.js",
+    "static/media/headphone.png": "/tounouTest/static/media/headphone.ed075abb31b67a761b04.png",
+    "static/media/bluetoothSpeaker.png": "/tounouTest/static/media/bluetoothSpeaker.91d8b519b1effc6714c9.png",
+    "static/media/pinkEarPhone.png": "/tounouTest/static/media/pinkEarPhone.09b838f2c0d553728a6d.png",
+    "static/media/yellowHeadPhone.png": "/tounouTest/static/media/yellowHeadPhone.374521914311a24a9ef1.png",
+    "static/media/bluetoothHeadPhone.png": "/tounouTest/static/media/bluetoothHeadPhone.b6e786eb80bd4335ae68.png",
+    "static/media/bluetoothBrownEarPhone.png": "/tounouTest/static/media/bluetoothBrownEarPhone.9e8199bae45fcf8f1ed7.png",
+    "static/media/bluetoothEarPhone.png": "/tounouTest/static/media/bluetoothEarPhone.ae5704e07b551c21ef0a.png",
+    "static/media/blackEarPhone.png": "/tounouTest/static/media/blackEarPhone.53c103336cff8174c83c.png",
+    "index.html": "/tounouTest/index.html",
+    "main.60b30eb6.css.map": "/tounouTest/static/css/main.60b30eb6.css.map",
+    "main.5d53a022.js.map": "/tounouTest/static/js/main.5d53a022.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60b30eb6.css",
+    "static/js/main.5d53a022.js"
+  ]
+}
